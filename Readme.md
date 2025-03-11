@@ -5,7 +5,7 @@
 
 # 👨🏻‍💻 JoTaP
 
-**`💻 Desenvolvedor e Cientista 🔄 Carregando habilidades: 12%...`**
+**`💻 Desenvolvedor e Cientista         🔄 Carregando habilidades: 12%...`**
 
 Me chamo João Pedro Gonçalves, tenho 19 anos e sou natural de Belo Horizonte - MG. Concluí o ensino médio na escola Santo Agostinho. Atualmente, estou cursando Ciências da Computação na UNA. Sou apaixonado por tecnologia e jogos. Estou no início do desenvolvimento do meu canal no YouTube "[Ghost_Tech]([https://www.youtube.com/@Gh0st_Tech00])", onde pretendo compartilhar meus conhecimentos e ensinar a criar projetos web.
 
