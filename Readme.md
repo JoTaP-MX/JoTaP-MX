@@ -130,8 +130,8 @@ Me chamo João Pedro Gonçalves, tenho 19 anos e sou natural de Belo Horizonte -
 
 <div align="center" style="display: inline-block">
     <a href="https://github.com/JoTaP-MX">
-    <img alt="GitHub Stats" height="169em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=JoTaP-MX&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br"/>
-    <img alt="GitHub Stats" height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoTaP-MX&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    <img alt="GitHub Stats" height="156em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=JoTaP-MX&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br"/>
+    <img alt="GitHub Stats" height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoTaP-MX&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
 </div>
 
