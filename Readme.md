@@ -128,10 +128,10 @@ Me chamo João Pedro Gonçalves, tenho 19 anos e sou natural de Belo Horizonte -
 
 ### 📊 Estatísticas
 
-<div style="display: inline-block">
-  <img align="left" alt="GitHub Stats" height="169em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=JoTaP-MX&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
- <img align="left" alt="GitHub Stats" height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoTaP-MX&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<div align="center" style="display: inline-block">
+    <a href="https://github.com/JoTaP-MX">
+    <img alt="GitHub Stats" height="169em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=JoTaP-MX&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br"/>
+    <img alt="GitHub Stats" height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoTaP-MX&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
 </div>
 
@@ -145,10 +145,8 @@ Me chamo João Pedro Gonçalves, tenho 19 anos e sou natural de Belo Horizonte -
 
 #
 
-</p>
 </div>
 <br>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
-
